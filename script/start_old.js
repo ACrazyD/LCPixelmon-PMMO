@@ -65,7 +65,7 @@ data2 = {};
 //ONLY THESE COLORS WORK BELOW 1.15: 0xffffff, 0xff0000, 0x00ff00, 0x0000ff, 0xffff00, 0x00ffff, 0xff00ff
 addData( "skills", "engineering", { "color": 0xffffff } );
 {
-	
+
 }
 function addData2( dataKey, regKey, entryKey, entryObject, probe )
 {
