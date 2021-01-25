@@ -29,51 +29,51 @@
 	},
 	"akashictome:tome":
 	{
-		"cooking": 5
+		"farming": 5
 	},
 	"antiqueatlas:empty_antique_atlas":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:biometric_card":
 	{
-		"cooking": 5
+		"farming": 5
 	},
 	"appliedenergistics2:cell_workbench":
 	{
-		"farming": 5
+		"cooking": 10
 	},
 	"appliedenergistics2:certus_quartz_axe":
 	{
-		"cooking": 5
+		"cooking": 10
 	},
 	"appliedenergistics2:certus_quartz_cutting_knife":
 	{
-		"farming": 5
+		"cooking": 10
 	},
 	"appliedenergistics2:certus_quartz_hoe":
 	{
-		"cooking": 5
+		"cooking": 10
 	},
 	"appliedenergistics2:certus_quartz_pickaxe":
 	{
-		"farming": 5
+		"cooking": 10
 	},
 	"appliedenergistics2:certus_quartz_spade":
 	{
-		"cooking": 5
+		"cooking": 10
 	},
 	"appliedenergistics2:certus_quartz_sword":
 	{
-		"farming": 5
+		"cooking": 10
 	},
 	"appliedenergistics2:certus_quartz_wrench":
 	{
-		"cooking": 5
+		"cooking": 10
 	},
 	"appliedenergistics2:charged_staff":
 	{
-		"farming": 5
+		"cooking": 10
 	},
 	"appliedenergistics2:charger":
 	{
@@ -173,7 +173,7 @@
 	},
 	"appliedenergistics2:fluid_storage_cell_1k":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:fluid_storage_cell_4k":
 	{
@@ -181,27 +181,27 @@
 	},
 	"appliedenergistics2:fluid_storage_cell_64k":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:fluix_block":
 	{
-		"cooking": 5
+		"farming": 5
 	},
 	"appliedenergistics2:fluix_slab":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:fluix_stairs":
 	{
-		"cooking": 5
+		"farming": 5
 	},
 	"appliedenergistics2:grindstone":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:inscriber":
 	{
-		"cooking": 5
+		"farming": 5
 	},
 	"appliedenergistics2:interface":
 	{
@@ -213,7 +213,7 @@
 	},
 	"appliedenergistics2:light_detector":
 	{
-		"cooking": 15
+		"cooking": 5
 	},
 	"appliedenergistics2:material":
 	{
@@ -221,47 +221,47 @@
 	},
 	"appliedenergistics2:matter_cannon":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:memory_card":
 	{
-		"cooking": 5
+		"farming": 5
 	},
 	"appliedenergistics2:molecular_assembler":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:nether_quartz_axe":
 	{
-		"cooking": 5
+		"farming": 5
 	},
 	"appliedenergistics2:nether_quartz_cutting_knife":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:nether_quartz_hoe":
 	{
-		"cooking": 5
+		"farming": 5
 	},
 	"appliedenergistics2:nether_quartz_pickaxe":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:nether_quartz_spade":
 	{
-		"cooking": 5
+		"farming": 5
 	},
 	"appliedenergistics2:nether_quartz_sword":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:nether_quartz_wrench":
 	{
-		"cooking": 5
+		"farming": 5
 	},
 	"appliedenergistics2:network_tool":
 	{
-		"farming": 5
+		"cooking": 5
 	},
 	"appliedenergistics2:paint_ball":
 	{
@@ -273,143 +273,143 @@
 	},
 	"appliedenergistics2:portable_cell":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:quantum_link":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:quantum_ring":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:quartz_block":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:quartz_fixture":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:quartz_glass":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:quartz_growth_accelerator":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:quartz_pillar":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:quartz_pillar_slab":
 	{
-		"cooking": 50
+		"cooking": 15
 	},
 	"appliedenergistics2:quartz_pillar_stairs":
 	{
-		"cooking": 50
+		"cooking": 15
 	},
 	"appliedenergistics2:quartz_slab":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:quartz_stairs":
 	{
-		"cooking": 30
+		"farming": 5
 	},
 	"appliedenergistics2:quartz_vibrant_glass":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:security_station":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:sky_compass":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:sky_stone_brick":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:sky_stone_brick_slab":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:sky_stone_brick_stairs":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:sky_stone_slab":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:sky_stone_small_brick":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:sky_stone_small_brick_slab":
 	{
-		"cooking": 35
+		"cooking": 5
 	},
 	"appliedenergistics2:sky_stone_small_brick_stairs":
 	{
-		"cooking": 40
+		"farming": 5
 	},
 	"appliedenergistics2:sky_stone_stairs":
 	{
-		"cooking": 40
+		"cooking": 5
 	},
 	"appliedenergistics2:smooth_sky_stone_block":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:smooth_sky_stone_slab":
 	{
-		"cooking": 45
+		"cooking": 5
 	},
 	"appliedenergistics2:smooth_sky_stone_stairs":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:storage_cell_16k":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:storage_cell_1k":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:storage_cell_4k":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:storage_cell_64k":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:tiny_tnt":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:vibration_chamber":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:view_cell":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"appliedenergistics2:wireless_access_point":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"appliedenergistics2:wireless_terminal":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"minecraft:comparator":
 	{
@@ -425,179 +425,179 @@
 	},
 	"armourers_workshop:item.armourers-hammer":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:item.blending-tool":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:item.block-marker":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:item.burn-tool":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:item.colour-noise-tool":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:item.colour-picker":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:item.dodge-tool":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:item.dye-bottle":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:item.guide-book":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:item.hue-tool":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:item.linking-tool":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:item.mannequin":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:item.mannequin-tool":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:item.paint-roller":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:item.paintbrush":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:item.shade-noise-tool":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:item.skin-template":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:item.skin-unlock":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:item.soap":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:item.wand-of-style":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:tile.colour-mixer":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:tile.dye-table":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:tile.global-skin-library":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"armourers_workshop:tile.hologram-projector":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"armourers_workshop:tile.outfit-maker":
 	{
-		"cooking": 50
+		"cooking": 10
 	},
 	"armourers_workshop:tile.skin-cube":
 	{
-		"cooking": 50
+		"cooking": 10
 	},
 	"armourers_workshop:tile.skin-cube-glass":
 	{
-		"cooking": 50
+		"cooking": 10
 	},
 	"armourers_workshop:tile.skin-cube-glass-glowing":
 	{
-		"cooking": 50
+		"cooking": 10
 	},
 	"armourers_workshop:tile.skin-cube-glowing":
 	{
-		"cooking": 50
+		"cooking": 10
 	},
 	"armourers_workshop:tile.skin-library":
 	{
-		"cooking": 50
+		"cooking": 10
 	},
 	"armourers_workshop:tile.skinning-table":
 	{
-		"cooking": 50
+		"cooking": 10
 	},
 	"aroma1997sdimension:dimensionchanger":
 	{
-		"cooking": 50
+		"cooking": 10
 	},
 	"aroma1997sdimension:miningmultitool":
 	{
-		"cooking": 50
+		"cooking": 10
 	},
 	"aroma1997sdimension:portalframe":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"base:wrench":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"betterbuilderswands:wanddiamond":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"betterbuilderswands:wandiron":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"betterbuilderswands:wandstone":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"betterbuilderswands:wandunbreakable":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"betterrecords:frequencycrystal":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"betterrecords:frequencytuner":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"betterrecords:laser":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"betterrecords:lasercluster":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"betterrecords:radio":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"betterrecords:record":
 	{
@@ -605,123 +605,123 @@
 	},
 	"betterrecords:recordetcher":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"betterrecords:recordplayer":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"betterrecords:speaker":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"betterrecords:strobelight":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"betterrecords:wire":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"betterrecords:wirecutters":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:armorstand":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:atlasbook":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:bell":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:bibliochase":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:biblioclipboard":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:bibliodrill":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:biblioglasses":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:biblioredbook":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:bigbook":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:bookcase":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:case":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:clock":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:compass":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:cookiejar":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:desk":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:dinnerplate":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:discrack":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:fancysign":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:fancyworkbench":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:framedchest":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:framingboard":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:framingsaw":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:framingsheet":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:furniturepaneler":
 	{
-		"cooking": 50
+		"farming": 5
 	},
 	"bibliocraft:handdrill":
 	{
@@ -765,7 +765,7 @@
 	},
 	"bibliocraft:paintingframefancy":
 	{
-		"cooking": 50
+		"cooking": 5
 	},
 	"bibliocraft:paintingframeflat":
 	{
@@ -897,1219 +897,1219 @@
 	},
 	"byg:baobab_wall":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:baobab_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:baobabbookshelf":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:baobabdooritem":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:baobabplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:baobabpowder":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:baobabslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:blackchiseledsandstone":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:blacksandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:blacksmoothsandstone":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:blue_enchanted_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:blue_enchanted_fence":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:blue_enchanted_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:blue_enchanted_wood":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:blue_enchanted_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:blueberrypie":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:carrotsoup":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:chainplating":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:cherry_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cherry_fence":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:cherry_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cherry_wood":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:cherry_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cherrybookshelf":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:cherryplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cherryslab":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:cika_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cika_fence":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:cika_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cika_wood":
 	{
-		"farming": 10
+		"cooking": 15
 	},
 	"byg:cika_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cikabookshelf":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:cikaplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cikaslab":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:crate":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cypress_door":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:cypress_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cypress_stairs":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:cypress_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:cypressplanks":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:ebony_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:ebony_fence":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:ebony_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:ebony_wood":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:ebony_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:ebonybookshelf":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:ebonyplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:ebonyslab":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:enchantedbookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:enchantedplanks":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:enchantedstick":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:eucalyptus_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:fir_door":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:fir_fence":
 	{
-		"cooking": 10
+		"cooking": 25
 	},
 	"byg:fir_stairs":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:fir_wood_wall":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:firwood":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:frozen_oak_door":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:frozen_oak_fence":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:frozen_oak_stairs":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:frozen_oak_wood":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:frozen_oak_wood_wall":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:frozenoakplanks":
 	{
-		"farming": 5
+		"cooking": 30
 	},
 	"byg:glowcaneblockblue":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:glowcaneblockpink":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:glowcaneblockpurple":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:glowcaneblockred":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:glowcanedustblue":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:glowcanedustpink":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:glowcanedustpurple":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:glowcanedustred":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:glowshroomsoupblue":
 	{
-		"farming": 5
+		"cooking": 35
 	},
 	"byg:glowshroomsouppurple":
 	{
-		"farming": 5
+		"cooking": 40
 	},
 	"byg:goldenbeetroot":
 	{
-		"farming": 5
+		"cooking": 40
 	},
 	"byg:great_oak_door":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:great_oak_fence":
 	{
-		"farming": 5
+		"cooking": 45
 	},
 	"byg:great_oak_stairs":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:great_oak_wood":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:great_oak_wood_wall":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:greatoakbookshelf":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:greatoakplanks":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:greatoakslab":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:green_enchanted_bookshelf":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:green_enchanted_door":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:green_enchanted_fence":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:green_enchanted_stairs":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:green_enchanted_wood":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:green_glowshroom_stew":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:greenapplepie":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:greenenchantedplanks":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:hawthorn_door":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:hawthorn_fence":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:hawthorn_stairs":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:hawthorn_wood":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:hawthornbookshelf":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:hawthornplanks":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:hawthornslab":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:holly_door":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:holly_fence":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:holly_stairs":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:holly_wood":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:holly_wood_wall":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:hollybookshelf":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:hollyplanks":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:hollyslab":
 	{
-		"farming": 5
+		"cooking": 50
 	},
 	"byg:ironwood_door":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:ironwood_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:ironwood_stairs":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:ironwood_wood":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:ironwoodbookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:ironwoodplanks":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:ironwoodslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:jacaranda_door":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:jacaranda_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:jacaranda_stairs":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:jacaranda_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:jacaranda_wood_wall":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:jacarandabookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:jacarandaplanks":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:jacarandaslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:jackomelon":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:kasaiarmourbody":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:kasaiarmourboots":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:kasaiarmourhelmet":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:kasaiarmourlegs":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:kasaiblock":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:kasaichainplating":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:kasaiingot":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:kasaipickaxe":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:kasaishovel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:kasaisword":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:lathariumarmorbody":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:lathariumarmorboots":
 	{
-		"cooking": 20
+		"cooking": 50
 	},
 	"byg:lathariumarmorhelmet":
 	{
-		"cooking": 20
+		"cooking": 50
 	},
 	"byg:lathariumarmorlegs":
 	{
-		"cooking": 20
+		"cooking": 50
 	},
 	"byg:lathariumaxe":
 	{
-		"cooking": 20
+		"cooking": 50
 	},
 	"byg:lathariumbattleaxe":
 	{
-		"cooking": 20
+		"cooking": 50
 	},
 	"byg:lathariumblock":
 	{
-		"cooking": 20
+		"cooking": 50
 	},
 	"byg:lathariumgem":
 	{
-		"cooking": 20
+		"cooking": 50
 	},
 	"byg:lathariumhoe":
 	{
-		"cooking": 20
+		"cooking": 50
 	},
 	"byg:lathariumpickaxe":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:lathariumshovel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:lathariumsword":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:light_blue_chiseled_sandstone":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:light_blue_crystal_block":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:light_blue_sandstone":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:light_blue_smooth_sandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mahogany_bookshelf":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:mahogany_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mahogany_fence":
 	{
-		"farming": 10
+		"cooking": 50
 	},
 	"byg:mahogany_planks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mahogany_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mahogany_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mangrove_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mangrove_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mangrove_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mangrove_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mangrove_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mangrovebookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mangroveplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mangroveslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:maple_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:maple_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:maple_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:maple_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:maple_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:maplebookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mapleplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mapleslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:mudbricks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:netherfurnace":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:palm_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:palm_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:palm_planks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:palm_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:palm_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:palo_verde_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:palo_verde_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoritearmourbody":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoritearmourboots":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoritearmourhelmet":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoritearmourlegs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoriteaxe":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoriteblock":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoritegem":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoritehoe":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoritepickaxe":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoriteshovel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pendoritesword":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pine_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pine_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pine_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pine_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pine_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pinebookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pineplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pink_chiseled_sandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pink_sandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pink_smooth_sandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:polished_soapstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:polished_soapstone_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:polished_soapstone_walls":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:polished_sodalite":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:polished_sodalite_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:polished_sodalite_walls":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pumpkinbread":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:pumpkinmash":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:purple_chiseled_sandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:purple_crystal_block":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:purple_sandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:purple_smooth_sandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rainbow_eucalyptus_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rainbow_eucalyptus_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rainbow_eucalyptus_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rainbow_eucalyptus_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rainboweucalyptusbookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rainboweucalyptusplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rainboweucalyptusslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:red_crystal_block":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:redwood_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:redwood_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:redwood_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:redwood_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:redwoodbookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:redwoodplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:redwoodslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rockystone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rowan_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rowan_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rowan_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rowan_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rowanbookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rowanplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:rowanslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:scoria_bricks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:scoria_pillars":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:scoria_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:scoria_walls":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:sepinite_bricks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:sepinite_pillars":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:sepinite_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:sepinite_tile":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:sepinite_walls":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:skyris_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:skyris_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:skyris_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:skyris_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:skyris_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:skyrisbookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:skyrisplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:skyrisslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:soapstone_pillars":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:soapstone_tile":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:sodalite_brick_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:sodalite_brick_walls":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:sodalite_bricks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:sodalite_tile":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:spidereyesoup":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:stonestick":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:strawberrypie":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamrelitearmourbody":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamrelitearmourboots":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamrelitearmourhelmet":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamrelitearmourlegs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamreliteaxe":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamreliteblock":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamrelitegem":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamrelitehoe":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamrelitepickaxe":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamreliteshovel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tamrelitesword":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:tropicalfishsoup":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:white_crystal_block":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:whitechiseledsandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:whitesandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:whitesmoothsandstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:willow_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:willow_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:willow_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:willow_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:willow_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:willowbookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:willowplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:willowslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:witch_hazel_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:witch_hazel_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:witch_hazel_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:witch_hazel_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:witch_hazel_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:witchhazelplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:witchhazelslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:woodenmortar":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:zelkova_door":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:zelkova_fence":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:zelkova_stairs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:zelkova_wood":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:zelkova_wood_wall":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:zelkovabookshelf":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:zelkovaplanks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"byg:zelkovaslab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"minecraft:chainmail_boots":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"minecraft:chainmail_chestplate":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"minecraft:chainmail_helmet":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"minecraft:chainmail_leggings":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"minecraft:dye":
 	{
@@ -2125,159 +2125,159 @@
 	},
 	"computercraft:advanced_modem":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"computercraft:cable":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"computercraft:command_computer":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"computercraft:computer":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"computercraft:disk_expanded":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"computercraft:peripheral":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"computercraft:pocket_computer":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"computercraft:printout":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"computercraft:turtle_advanced":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"computercraft:turtle_expanded":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"computercraft:wired_modem_full":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"minecraft:skull":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chickenchunks:chunk_loader":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:antiblock":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:auto_chisel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:block_charcoal2":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:bookshelf_acacia":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:bookshelf_birch":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:bookshelf_darkoak":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:bookshelf_jungle":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:bookshelf_spruce":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:brownstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:chisel_diamond":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:chisel_hitech":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:chisel_iron":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:cloud":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:factory":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:futura":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:glasspane":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:glasspane1":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:laboratory":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:lavastone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:offsettool":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:paper":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:temple":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:tyrian":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:valentines":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:voidstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"chisel:waterstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"immersiveengineering:metal":
 	{
@@ -2313,499 +2313,499 @@
 	},
 	"cookingforblockheads:cabinet":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:cooking_table":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:corner":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:counter":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:fridge":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:fruit_basket":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:heating_unit":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:ice_unit":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:kitchen_floor":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:milk_jar":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:oven":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:preservation_chamber":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:recipe_book":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:sink":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:spice_rack":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:toaster":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"cookingforblockheads:tool_rack":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"dankstorage:dank_1":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"dankstorage:dank_2":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"dankstorage:dank_3":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"dankstorage:dank_4":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"dankstorage:dank_5":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"dankstorage:dank_6":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"dankstorage:dank_7":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:alchemy_pedestal":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:alchemy_tablet":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:anti_tinker_lens":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:archaic_bricks":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:archaic_circuit":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:archaic_edge":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:archaic_light":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:archaic_tile":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_amulet":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_brick":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_brick_slab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_cloak_boots":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_cloak_chest":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_cloak_head":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_cloak_legs":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_stone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_stone_slab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_tile":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ashen_tile_slab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:auto_hammer":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:axe_aluminum":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:axe_bronze":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:axe_clockwork":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:axe_copper":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:axe_dawnstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:axe_electrum":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:axe_lead":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:axe_nickel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:axe_silver":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:axe_tin":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:beam_cannon":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:beam_splitter":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:bin":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:blend_caminite":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_aluminum":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_bronze":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_caminite_brick":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_caminite_brick_slab":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_copper":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_dawnstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_electrum":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_furnace":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_lantern":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_lead":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_nickel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_silver":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_tank":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:block_tin":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:boiler":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:breaker":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:caminite_lever":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:caster_orb":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:catalyzer":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:charger":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:cinder_plinth":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:clockwork_attenuator":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:codex":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:combustor":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:copper_cell":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:crystal_cell":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:crystal_ember":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:dawnstone_anvil":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:dawnstone_mail":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:diffraction_barrel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_activator":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_amulet":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_belt":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_bore":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_bulb":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_cartridge":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_detector":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_emitter":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_funnel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_gauge":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_injector":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_jar":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_pulser":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_receiver":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_relay":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_ring":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ember_siphon":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:field_chart":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:fluid_dropper":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:fluid_gauge":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:fluid_transfer":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:geo_separator":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:glimmer_lamp":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:grandhammer":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:heat_coil":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:hoe_aluminum":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:hoe_bronze":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:hoe_copper":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:hoe_dawnstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:hoe_electrum":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:hoe_lead":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:hoe_nickel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:hoe_silver":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:hoe_tin":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ignition_cannon":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:inferno_forge":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ingot_aluminum":
 	{
@@ -2813,127 +2813,127 @@
 	},
 	"embers:ingot_bronze":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ingot_copper":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ingot_dawnstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ingot_electrum":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ingot_lead":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ingot_nickel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ingot_silver":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:ingot_tin":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:item_dropper":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:item_pipe":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:item_pump":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:item_request":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:item_transfer":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:jet_augment":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:large_tank":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:mech_accessor":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:mech_core":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:mechanical_pump":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:mini_boiler":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:mixer":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:nugget_aluminum":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:nugget_bronze":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:nugget_copper":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:nugget_dawnstone":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:nugget_electrum":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:nugget_lead":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:nugget_nickel":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:nugget_silver":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:nugget_tin":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:pickaxe_aluminum":
 	{
-		"cooking": 10
+		"cooking": 50
 	},
 	"embers:pickaxe_bronze":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:pickaxe_clockwork":
 	{
@@ -2941,11 +2941,11 @@
 	},
 	"embers:pickaxe_copper":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:pickaxe_dawnstone":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:pickaxe_electrum":
 	{
@@ -2953,7 +2953,7 @@
 	},
 	"embers:pickaxe_lead":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:pickaxe_nickel":
 	{
@@ -2961,7 +2961,7 @@
 	},
 	"embers:pickaxe_silver":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:pickaxe_tin":
 	{
@@ -2969,7 +2969,7 @@
 	},
 	"embers:pipe":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:plate_aluminum":
 	{
@@ -2977,7 +2977,7 @@
 	},
 	"embers:plate_bronze":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:plate_caminite_raw":
 	{
@@ -2985,7 +2985,7 @@
 	},
 	"embers:plate_copper":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:plate_dawnstone":
 	{
@@ -2993,7 +2993,7 @@
 	},
 	"embers:plate_electrum":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:plate_gold":
 	{
@@ -3001,7 +3001,7 @@
 	},
 	"embers:plate_iron":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:plate_lead":
 	{
@@ -3009,7 +3009,7 @@
 	},
 	"embers:plate_nickel":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:plate_silver":
 	{
@@ -3017,7 +3017,7 @@
 	},
 	"embers:plate_tin":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:pump":
 	{
@@ -3025,7 +3025,7 @@
 	},
 	"embers:reaction_chamber":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:reactor":
 	{
@@ -3033,7 +3033,7 @@
 	},
 	"embers:resonating_bell":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:sealed_planks":
 	{
@@ -3041,7 +3041,7 @@
 	},
 	"embers:shard_ember":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:shovel_aluminum":
 	{
@@ -3049,7 +3049,7 @@
 	},
 	"embers:shovel_bronze":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:shovel_copper":
 	{
@@ -3057,7 +3057,7 @@
 	},
 	"embers:shovel_dawnstone":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:shovel_electrum":
 	{
@@ -3065,7 +3065,7 @@
 	},
 	"embers:shovel_lead":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:shovel_nickel":
 	{
@@ -3073,7 +3073,7 @@
 	},
 	"embers:shovel_silver":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:shovel_tin":
 	{
@@ -3081,7 +3081,7 @@
 	},
 	"embers:spark_plug":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:staff_ember":
 	{
@@ -3089,7 +3089,7 @@
 	},
 	"embers:stairs_ashen_brick":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:stairs_ashen_stone":
 	{
@@ -3097,7 +3097,7 @@
 	},
 	"embers:stairs_ashen_tile":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:stairs_caminite_brick":
 	{
@@ -3105,7 +3105,7 @@
 	},
 	"embers:stamp_bar_raw":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:stamp_flat_raw":
 	{
@@ -3113,7 +3113,7 @@
 	},
 	"embers:stamp_gear_raw":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:stamp_plate_raw":
 	{
@@ -3121,7 +3121,7 @@
 	},
 	"embers:stamper":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:stamper_base":
 	{
@@ -3129,7 +3129,7 @@
 	},
 	"embers:stirling":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:stone_edge":
 	{
@@ -3137,7 +3137,7 @@
 	},
 	"embers:stone_valve":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:superheater":
 	{
@@ -3145,7 +3145,7 @@
 	},
 	"embers:sword_aluminum":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:sword_bronze":
 	{
@@ -3153,211 +3153,211 @@
 	},
 	"embers:sword_copper":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"embers:sword_dawnstone":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:sword_electrum":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:sword_lead":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:sword_nickel":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:sword_silver":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:sword_tin":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:tinker_hammer":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:tinker_lens":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:vacuum":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:wall_ashen_brick":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:wall_ashen_stone":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:wall_ashen_tile":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:wall_caminite_brick":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"embers:wrapped_sealed_planks":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"enderstorage:ender_pouch":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"enderstorage:ender_storage":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:clinker_brick_block":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:clinker_brick_slab":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:clinker_brick_stained_block":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:clinker_brick_stained_slab":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:clinker_brick_stained_stairs":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:clinker_brick_stairs":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:clinker_brick_wall":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:concrete_wall":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:factory_dropper":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:factory_hopper":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:factory_placer":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:gas_concrete":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:gas_concrete_slab":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:gas_concrete_stairs":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:gas_concrete_wall":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:halfslab_concrete":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:halfslab_gas_concrete":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:halfslab_rebar_concrete":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:halfslab_sheetmetal_aluminum":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:halfslab_sheetmetal_copper":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:halfslab_sheetmetal_gold":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:halfslab_sheetmetal_iron":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:halfslab_sheetmetal_steel":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:halfslab_treated_wood":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:iron_floor_edge_light":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:iron_inset_light":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:labeled_crate":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:metal_rung_ladder":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:metal_rung_steps":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:panzerglass_block":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:passive_fluid_accumulator":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:rebar_concrete":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:rebar_concrete_slab":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:rebar_concrete_stairs":
 	{
-		"cooking": 10
+		"farming": 5
 	},
 	"engineersdecor:rebar_concrete_tile":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:rebar_concrete_tile_slab":
 	{
@@ -3365,11 +3365,11 @@
 	},
 	"engineersdecor:rebar_concrete_tile_stairs":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:rebar_concrete_wall":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:sign_danger":
 	{
@@ -3377,7 +3377,7 @@
 	},
 	"engineersdecor:sign_defense":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:sign_exit":
 	{
@@ -3385,7 +3385,7 @@
 	},
 	"engineersdecor:sign_factoryarea":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:sign_hotwire":
 	{
@@ -3393,7 +3393,7 @@
 	},
 	"engineersdecor:slag_brick_block":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:slag_brick_slab":
 	{
@@ -3401,7 +3401,7 @@
 	},
 	"engineersdecor:slag_brick_stairs":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:slag_brick_wall":
 	{
@@ -3409,7 +3409,7 @@
 	},
 	"engineersdecor:small_block_breaker":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:small_electrical_furnace":
 	{
@@ -3417,7 +3417,7 @@
 	},
 	"engineersdecor:small_fluid_funnel":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:small_lab_furnace":
 	{
@@ -3425,7 +3425,7 @@
 	},
 	"engineersdecor:small_milking_machine":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:small_mineral_smelter":
 	{
@@ -3433,7 +3433,7 @@
 	},
 	"engineersdecor:small_solar_panel":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:small_tree_cutter":
 	{
@@ -3441,7 +3441,7 @@
 	},
 	"engineersdecor:small_waste_incinerator":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:steel_double_t_support":
 	{
@@ -3449,7 +3449,7 @@
 	},
 	"engineersdecor:steel_floor_grating":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:steel_framed_window":
 	{
@@ -3457,7 +3457,7 @@
 	},
 	"engineersdecor:steel_mesh_fence":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:steel_mesh_fence_gate":
 	{
@@ -3465,39 +3465,39 @@
 	},
 	"engineersdecor:steel_table":
 	{
-		"cooking": 10
+		"cooking": 20
 	},
 	"engineersdecor:straight_pipe_valve":
 	{
-		"cooking": 10
+		"cooking": 20
 	},
 	"engineersdecor:straight_pipe_valve_redstone":
 	{
-		"cooking": 10
+		"cooking": 20
 	},
 	"engineersdecor:straight_pipe_valve_redstone_analog":
 	{
-		"cooking": 10
+		"cooking": 20
 	},
 	"engineersdecor:thick_steel_pole":
 	{
-		"cooking": 10
+		"cooking": 20
 	},
 	"engineersdecor:thick_steel_pole_head":
 	{
-		"cooking": 10
+		"cooking": 20
 	},
 	"engineersdecor:thin_steel_pole":
 	{
-		"cooking": 10
+		"cooking": 20
 	},
 	"engineersdecor:thin_steel_pole_head":
 	{
-		"cooking": 10
+		"cooking": 20
 	},
 	"engineersdecor:treated_wood_broad_windowsill":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:treated_wood_crafting_table":
 	{
@@ -3505,11 +3505,11 @@
 	},
 	"engineersdecor:treated_wood_ladder":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:treated_wood_pole":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:treated_wood_pole_head":
 	{
@@ -3517,7 +3517,7 @@
 	},
 	"engineersdecor:treated_wood_pole_support":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:treated_wood_side_table":
 	{
@@ -3525,7 +3525,7 @@
 	},
 	"engineersdecor:treated_wood_stool":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:treated_wood_table":
 	{
@@ -3533,7 +3533,7 @@
 	},
 	"engineersdecor:treated_wood_window":
 	{
-		"cooking": 10
+		"farming": 10
 	},
 	"engineersdecor:treated_wood_windowsill":
 	{
