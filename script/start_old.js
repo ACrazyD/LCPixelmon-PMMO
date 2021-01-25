@@ -65,7 +65,7 @@ data2 = {};
 //ONLY THESE COLORS WORK BELOW 1.15: 0xffffff, 0xff0000, 0x00ff00, 0x0000ff, 0xffff00, 0x00ffff, 0xff00ff
 addData( "skills", "engineering", { "color": 0xffffff } );
 {
-	addData( "req_craft","ae2stuff:encoder",	{ "cooking": 5 } );
+addData( "req_craft","ae2stuff:encoder",{ "cooking": 5 } );
 	addData( "req_place","ae2stuff:grower",	{ "farming": 5 } );
 	addData( "req_place","ae2stuff:inscriber",	{ "cooking": 5 } );
 	addData( "req_place","ae2stuff:visualiser",	{ "farming": 5 } );
